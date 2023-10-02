@@ -256,7 +256,7 @@ body {
         height: 100vh;
     }
 
-    /* ESTILOS DO MENU LATERAL */
+/* ESTILOS DO MENU LATERAL */
 
     .menu__container {
         font-size: 16px;
@@ -270,7 +270,7 @@ body {
         width: 100%;
     }
 
-    /* ESTILOS DA SECAO SUPERIOR */
+/* ESTILOS DA SECAO SUPERIOR */
 
     .superior__secao__container {
         border-top: var(--azul-medio) 1px solid;
@@ -279,7 +279,7 @@ body {
         left: 82px;
     }
 
-    /*ESTILOS SEÇÃO VÍDEOS */
+/*ESTILOS SEÇÃO VÍDEOS */
 
     .videos__container {
         padding-left: 90px;
@@ -290,7 +290,7 @@ body {
         transform: scale(1.3);
     }
 
-    /* ESTILOS RODAPÉ */
+/* ESTILOS RODAPÉ */
 
     .rodape__container {
         height: 420px;
@@ -301,26 +301,26 @@ body {
 
 @media(min-width: 1440px) {
 
-    /* SEÇÃO SUPERIOR */
+/* SEÇÃO SUPERIOR */
 
     .superior__secao__container {
         left: 247px;
     }
 
-    /* ESTILOS DO MENU LATERAL */
+/* ESTILOS DO MENU LATERAL */
 
     .menu__lista {
         border-bottom: 1.5px solid var(--azul-medio);
     }
 
-    /* ESTILOS VIDEOS */
+/* ESTILOS VIDEOS */
 
     .videos__container {
         padding-right: 10px;
         padding-left: 248px;
     }
 
-    /* ESTILOS RODAPÉ */
+/* ESTILOS RODAPÉ */
 
     .rodape__container {
         padding-left: 240px;
